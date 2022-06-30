@@ -6,4 +6,4 @@ services:
     ports:
     - "80:80"
     environment:
-    - TARGET_HOSTNAME=ppfs
+      TARGET_HOSTNAME: ppfs
