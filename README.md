@@ -1,6 +1,6 @@
 # Gunicorn nginx proxy
 
-This is a simple docker image based on the official [nginx](https://hub.docker.com/_/nginx) docker image, which includes a template based on some of recommendations from [gunicorn docs](https://docs.gunicorn.org/en/latest/deploy.html) and contains a configuration to make CORS work properly.
+This is a simple docker image based on the official [nginx](https://hub.docker.com/_/nginx) docker image, which includes a template based on some of recommendations from [gunicorn docs](https://docs.gunicorn.org/en/latest/deploy.html).
 
 ## How to
 
